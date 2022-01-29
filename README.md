@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.  
-[resim](C:\Users\Seher\Desktop\ilkrepo.PNG)
+![](ilkrepo.PNG "Title")
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)  
